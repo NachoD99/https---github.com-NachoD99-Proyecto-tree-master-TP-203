@@ -1,0 +1,57 @@
+[
+  {
+    "idDocente": 1,
+    "nombreDocente": "Docente 1",
+    "domicilio": "Domicilio 1",
+    "telefono": "Telefono 1",
+    "email": null,
+    "dni": "DNI 1",
+    "especialidad": "Especialidad 1",
+    "nombreCursoInscripto": null,
+    "fechaInscripcion": "0001-01-01T00:00:00"
+  },
+  {
+    "idDocente": 2,
+    "nombreDocente": "Docente 2",
+    "domicilio": "Domicilio 2",
+    "telefono": "Telefono 2",
+    "email": null,
+    "dni": "DNI 2",
+    "especialidad": "Especialidad 2",
+    "nombreCursoInscripto": null,
+    "fechaInscripcion": "0001-01-01T00:00:00"
+  },
+  {
+    "idDocente": 3,
+    "nombreDocente": "Docente 3",
+    "domicilio": "Domicilio 3",
+    "telefono": "Telefono 3",
+    "email": null,
+    "dni": "DNI 3",
+    "especialidad": "Especialidad 3",
+    "nombreCursoInscripto": null,
+    "fechaInscripcion": "0001-01-01T00:00:00"
+  },
+  {
+    "idDocente": 4,
+    "nombreDocente": "Docente 4",
+    "domicilio": "Domicilio 4",
+    "telefono": "Telefono 4",
+    "email": null,
+    "dni": "DNI 4",
+    "especialidad": "Especialidad 4",
+    "nombreCursoInscripto": null,
+    "fechaInscripcion": "0001-01-01T00:00:00"
+  },
+  {
+    "idDocente": 5,
+    "nombreDocente": "Docente 5",
+    "domicilio": "Domicilio 5",
+    "telefono": "Telefono 5",
+    "email": null,
+    "dni": "DNI 5",
+    "especialidad": "Especialidad 5",
+    "nombreCursoInscripto": null,
+    "fechaInscripcion": "0001-01-01T00:00:00"
+  }
+]
